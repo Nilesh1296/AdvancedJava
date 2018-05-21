@@ -2,3 +2,20 @@
 May 18, 2018 11:09:32.10 NEW SESSION
 May 18, 2018 11:09:32.10 [6333:6355:0518/110932.106085:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
 May 18, 2018 11:09:32.18 Created new window in existing browser session.
+
+May 19, 2018 16:37:46.74 NEW SESSION
+May 19, 2018 16:37:46.74 [11288:11309:0519/163746.737572:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+May 19, 2018 16:37:46.78 Created new window in existing browser session.
+May 19, 2018 17:13:58.24 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+May 19, 2018 17:13:58.36 Created new window in existing browser session.
+May 19, 2018 17:34:35.09 Created new window in existing browser session.
+May 19, 2018 17:46:31.36 [14569:14590:0519/174631.362525:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+May 19, 2018 17:46:31.42 Created new window in existing browser session.
+May 19, 2018 17:49:14.98 [14827:14849:0519/174914.989695:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+May 19, 2018 17:49:15.03 Created new window in existing browser session.
+May 19, 2018 17:53:02.39 [15198:15219:0519/175302.394720:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+May 19, 2018 17:53:02.43 Created new window in existing browser session.
+May 19, 2018 17:56:36.83 [15466:15487:0519/175636.832423:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+May 19, 2018 17:56:36.86 Created new window in existing browser session.
+May 19, 2018 17:59:30.10 [15692:15713:0519/175930.103737:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+May 19, 2018 17:59:30.12 Created new window in existing browser session.
