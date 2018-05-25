@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/main.css">
+<script src="js/login.js"></script>
+</head>
+<body>
+	<div class="loginbox">
+
+		<form action="login" class="abc" method="post"
+			onsubmit="return validate()">
+			<h1 align="center">Login page</h1>
+
+			<p>Enter username:</p>
+			<input type="text" name="username" id="username" placeholder="Enter username">
+			<div id="unameError"></div>
+
+
+			<p>Enter Password:</p>
+			<input type="password" name="password" id="password" placeholder="Enter password">
+			<div id="passError"></div>
+
+			<div>
+				<input type="submit" class="login" value="Login"><br>
+			</div>
+			<div>
+				<button>
+					<a href="Registration.html">Registration</a>
+				</button>
+			</div>
+		</form>
+	</div>
+</body>
+
+</html>
