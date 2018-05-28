@@ -3,6 +3,7 @@
   <display-name>RegistrationPage</display-name>
   <welcome-file-list>
     <welcome-file>Login.jsp</welcome-file>
+    <welcome-file>Registration.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
     <servlet-name>LoginController</servlet-name>

@@ -2,11 +2,12 @@
   <html>
   <head>
   <title>Welcome To Registration Form</title>
- <script src="js/registration.js"></script></head>
+  <script src="js/registration.js"></script>
+ </head>
 
 	<body>
 	
-	<form action="registration" method ="post" onsubmit="return registration()">
+	<form action="registration" method ="post" onsubmit ="return registration()">
 	
 	
 	<h2 align="center">Create Your Account</h2>
@@ -15,23 +16,28 @@
 	<table cellspacing="2" align="center" cellpadding="8" border="0">
 	<tr>
 	<td align="right">Enter Name :</td>
-	<td><input type="text" id="name" name ="username" placeholder="Enter user here"></td>
+	<td><input type="text" id="name" name ="username" placeholder="Enter user here">
+	<span id="nameError" style="color:red;display:block;"></span></td>
 	</tr>
 	
 	
 	<tr>
 	<td align="right">Enter Password :</td>
-	<td><input type="password" id="password" name ="password" placeholder="Enter Password here"></td>
+	<td><input type="password" id="password" name ="password" placeholder="Enter Password here">
+	<span id="passError" style="color:red;display:block;"></span></td>
 	</tr>
 	
 	<tr>
 	<td align="right">Enter Phonenumber:</td>
-	<td><input type="text" id="phonenumber" name ="phonenumber" placeholder="Enter Phonenumber here"></td>
+	<td><input type="text" id="phonenumber" name ="phonenumber" placeholder="Enter Phonenumber here">
+	<span id="phoneError" style="color:red;display:block;"></span></td>
 	</tr>
 	
 	<tr>
 	<td align="right">Enter Address:</td>
-	<td><input type="text" id="address" name ="address" placeholder="Enter Address here"></td>
+	<td><input type="text" id="address" name ="address" placeholder="Enter Address here">
+	<span id="addressError" style="color:red;display:block;"></span></td>
+	
 	</tr>
 	
 	<tr>
